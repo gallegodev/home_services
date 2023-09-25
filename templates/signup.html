@@ -49,38 +49,46 @@
     <section class="page-section" id="contact">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Login</h2>
+                <h2 class="section-heading text-uppercase">Sign Up</h2>
             </div>
 
-            <!-- Login Form -->
-            <form id="loginForm" data-sb-form-api-token="96d53eec-fa4f-49e7-a51c-2bd0ca85d158">
+            <!-- Sign Up Form -->
+            <form id="signupForm" action="/profile" method="POST">
                 <div class="row align-items-stretch mb-5">
                     <div class="col-md-12">
                         <div class="form-group">
+                            <!-- Name input -->
+                            <input class="form-control" id="name" name="name" type="text" placeholder="Name *"
+                                data-sb-validations="required" />
+                            <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
+                        </div>
+                        <br>
+                        <div class="form-group">
                             <!-- Email address input -->
-                            <input class="form-control" id="email" type="email" placeholder="Email *"
+                            <input class="form-control" id="email" name="email" type="email" placeholder="Email *"
                                 data-sb-validations="required,email" />
                             <div class="invalid-feedback" data-sb-feedback="email:required">Email is required.</div>
                             <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                         </div>
                         <br>
                         <div class="form-group">
-                            <!-- Password input -->
-                            <input class="form-control" id="password" type="password" placeholder="Password *"
+                            <!-- Phone number input -->
+                            <input class="form-control" id="phone" name="phone" type="tel" placeholder="Phone *"
                                 data-sb-validations="required" />
-                            <div class="invalid-feedback" data-sb-feedback="password:required">Password is required.
-                            </div>
+                            <div class="invalid-feedback" data-sb-feedback="phone:required">Phone number is required.</div>
+                        </div>
+                        <br>
+                        <div class="form-group">
+                            <!-- Password input -->
+                            <input class="form-control" id="password" name="password" type="password"
+                                placeholder="Password *" data-sb-validations="required" />
+                            <div class="invalid-feedback" data-sb-feedback="password:required">Password is required.</div>
                         </div>
                     </div>
                 </div>
-                <!-- Submit error message -->
-                <div class="d-none" id="submitErrorMessage">
-                    <div class="text-center text-danger mb-3">Error logging in!</div>
-                </div>
-                <!-- Submit and Sign Up Buttons -->
+                <!-- Submit Button -->
                 <div class="text-center">
-                    <button class="btn btn-primary btn-xl text-uppercase" id="loginButton" type="submit">Login</button>
-                    <a class="btn btn-secondary btn-xl text-uppercase" href="{{ url_for('signup') }}">Sign Up</a>
+                    <button class="btn btn-primary btn-xl text-uppercase" id="signupButton" type="submit">Sign Up</button>
                 </div>
             </form>
         </div>
