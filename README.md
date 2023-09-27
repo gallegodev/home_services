@@ -144,13 +144,8 @@ Welcome to Home Services, your trusted source for all things related to home mai
 </ul>
 
 <h3>Home Webpage Accessibility Score</h3>
-<img src="assets/images/readmeimg13.jpg" alt="presentation of Lola Coffeehouse index.html validator accessiblity score">
-<h3>Menu Webpage Accessibility Score</h3>
-<img src="assets/images/readmeimg14.jpg" alt="presentation of Lola Coffeehouse menu.html validator accessiblity score">
-<h3>Location Webpage Accessibility Score</h3>
-<img src="assets/images/readmeimg12.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
-<h3>Sign up Webpage Accessibility Score</h3>
-<img src="assets/images/readmeimg15.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
+<img src="static/images/SC10.png" alt="presentation of Home Services acessibility score">
+
 <br>
 <h2>Unfixed Bugs</h2>
 <ul>
