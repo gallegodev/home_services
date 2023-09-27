@@ -79,27 +79,21 @@ Welcome to Home Services, your trusted source for all things related to home mai
 
 # Features of Sign up Webpage
 
-<h2>Sign up webpage</h2>
+<h2>Posts webpage</h2>
 <br>
 <ul>
     <li>
         <p>It has same head and footer from the Home page</p>
     </li>
-    <li>
-        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment.</p>
-    </li>
      <li>
-        <p>It has a sign up form that allows the user imput his first name, last name and email. The user need to fill all the text boxes in other to get the 20% discount Voucher.</p>
+        <p>It has the same image preview on the top as on the main page</p>
     </li>
     <li>
-        <p>The code it will not allow the user to pass through it withought the proper information on each text box.</p>
-    </li>
-    <li>
-        <p>First Name, Last Name and Email highlighted with Dancing Script font and with a shade of yellow so it calls the attention of the user.</p>
+        <p>Allow user with register login to writgh a text and like the posts</p>
     </li>
 </ul>
 
-<img src="assets/images/readmeimg9.jpg" alt="presentation of Lola Coffeehouse Sign up Webpage">
+<img src="static/images/SC09.png" alt="presentation of Home Services posts page content">
 <hr> 
 
 # Testing
@@ -123,15 +117,8 @@ Welcome to Home Services, your trusted source for all things related to home mai
 
 <ul>
     <li>
-        <p>Background images were not covering the entire size frame digned</p>
+        <p>Users cant delete own posts</p>
     </li>
-    <li>
-        <p>I discovered that the style "background-size: cover;" were missing from the style.css</p>
-    </li>
-     <li>
-        <p>Adding it solved the problem</p>
-    </li>
-</ul>
 
 # Validator Testing
 
@@ -168,7 +155,7 @@ Welcome to Home Services, your trusted source for all things related to home mai
 <h2>Unfixed Bugs</h2>
 <ul>
     <li>
-        <p>No unfixed bugs</p>
+        <p>Users cant delete posts</p>
     </li>
 </ul>
 
@@ -186,7 +173,19 @@ Welcome to Home Services, your trusted source for all things related to home mai
     </li>
 </ul>
 <br>
-<p>The live link can be found here - <a href="https://gallegodev.github.io/Portfolio-1/index.html" target="_blank" aria-label=" Visit Lola Coffeehouse webpage (Opens in another page)">Lola Coffeehouse</a>
+<p>The live link can be found here - <a href="https://8000-gallegodev-homeservices-h7rejmyijph.ws-eu105.gitpod.io/" target="_blank" aria-label=" Visit Home Services webpage (Opens in another page)">Home Services</a>
+
+<h2>This site was deployed to Heroku pages. The steps to deploy are as follows:</h2>
+<ul>
+    <li>
+        <p>In the Heroku deployment page, navigate to deploy on Main and press the buttom below "Deploy Branch"</p>
+    </li>
+    <li>
+        <p>The page will be uploaded and Heroku will give you the option to view the page</p>
+    </li>
+</ul>
+<br>
+<p>The live link can be found here - <a href="https://8000-gallegodev-homeservices-h7rejmyijph.ws-eu105.gitpod.io/" target="_blank" aria-label=" Visit Home Services webpage (Opens in another page)">Home Services</a>
 
 # Credits
 <h2>Content</h2>
