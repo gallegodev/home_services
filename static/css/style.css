@@ -140,7 +140,11 @@ body {
     background: transparent;
     border: none;
 }
+/*Header*/
 
+.bg-white {
+    background-color: #445261!important;
+}
 /*Posts*/
 .card {
     position: relative;
