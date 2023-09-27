@@ -9,116 +9,72 @@ Welcome to Home Services, your trusted source for all things related to home mai
 <br>
 <ul>
     <li>
-        <p>Feature at the top of the page, the naviagtion shows the coffeehouse name in the left corner:Lola Coffeehouse that links to the home page.</p>
+        <p>Feature at the top of the page, the naviagtion shows the Website name in the left corner:Home Services that links to the home page.</p>
     </li>
     <li>
-        <p>The other navigation links are to the right: Home, Menu, Location, Sign up.</p>
+        <p>The other navigation links are to the right: Register and Login</p>
     </li>
     <li>
-        <p>Home, Menu, Location, has a hoover style that underlines the page the user is on.</p>
-    </li>
-    <li>
-        <p>The navigation clearly tells the user the name of the coffeehouse and website and makes the different sections of information easy to find.</p>
+        <p>The navigation clearly tells the user the name of the website and makes the different sections of information easy to find.</p>
     </li>
 </ul>
 
-<img src="assets/images/readmeimg2.jpg" alt="presentation of Lola Coffeehouse menu navigation">
+<img src="static/images/SC04.png" alt="presentation of Home Servicesheader Page">
 <hr>
 
-<h2>The Welcome Section</h2>
+<h2>The Main Page</h2>
 <br>
 <ul>
     <li>
-        <p>Shows a lovely image from one of the tables from  coffeehouse that gives warm and welcoming feeling to the users of the website.</p>  
+        <p>Shows all the posts on blog and each one has a hoover effect so the user can easily notice witch one its selecting.</p>  
     </li>
-    <li>
-        <p>Cover on the right side of the image with the text "Made with love for you" with the font Dancing Script in a color that catch h the attention of the user.</p>
-    </li>
-</ul>
 
-<img src="assets/images/readmeimg3.jpg" alt="presentation of Lola Coffeehouse welcome section">
+<img src="static/images/SC05.png" alt="presentation of Home Services MAin Page content">
 <hr>
- <h2>Why should you visit us? Section</h2>
-<br>
-<ul>
-    <li>
-        <p>The "Why should you visit us?" section gives details about what the coffeehouse offers to their customers.</p>  
-    </li>
-    <li>
-        <p>The Easy Location, Friendly Envirioment and Monthly Discounts of this section have links inside of each of them that guide the users to other pages and give more information in the detail about each subject selected</p>
-    </li>
-     <li>
-        <p>The central picture in this section shows one the tables of the coffeehouse with friends having coffee together. Suggesting to the user friendly envirioment, one that the user may consider bring his friends to it. </p>
-    </li>
-</ul>
-<img src="assets/images/readmeimg4.jpg" alt="presentation of Lola Coffeehouse Ethos">
-<hr> 
-<h2>How do we prepare your coffee! Section</h2>
-<ul>
-    <li>
-        <p>The "How do we prepare your coffee" describe to users that Lola Coffeehouse use a differente way to make coffee. One that is more unique and special.</p>  
-    </li>
-    <li>
-        <p>The video in this section show in the details how unique is the coffee made at Lola Coffeehouse and why the coffee flavour is so special.</p>
-    </li>
-</ul>
-<img src="assets/images/readmeimg5.jpg" alt="presentation of Lola Coffeehouse How do we make your coffee section">
-<hr> 
+  
 <h2>Social media Section</h2>
 <ul>
     <li>
-        <p>The has the Symbols from Facebook, Instagran and Twitter and all of them are linked with Lola Coffeehouse respective social media pages.</p>  
+        <p>The has the Symbols from Facebook, Instagran and Twitter and all of them are linked  respective social media pages.</p>  
     </li>
     <li>
         <p>All the 3 Symbols have a hoover style so if the user has the arrow from the mouse pad on top of it the symbol will change color, giving the impression that the symbol is active and is functional to the user</p>
     </li>
 </ul>
-<img src="assets/images/readmimg6.jpg" alt="presentation of Lola Coffeehouse Social media section">
+<img src="static/images/SC06.png" alt="presentation of Home Services footer content">
 <hr> 
 
-# Features of Menu Webpage
+# Features of Registration Webpage
 
-<h2>Menu webpage</h2>
+<h2>Registration webpage</h2>
 <br>
 <ul>
     <li>
         <p>It has same head and footer from the Home page</p>
     </li>
     <li>
-        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment, with all the menu described and centralised in the webpage.</p>
-    </li>
-    <li>
-        <p>Name of drinks and sandwiches highlighted with Dancing Script font and with a shade of yellow.</p>
-    </li>
-    <li>
-        <p>All the items on the menu are described below their names so the user can understand how each item is made</p>
+        <p>It asks for the user to input his information and submit it.</p>
     </li>
 </ul>
 
-<img src="assets/images/readmeimg7.jpg" alt="presentation of Lola Coffeehouse Menu Webpage">
+<img src="static/images/SC07.png" alt="presentation of Home Services Registration page content">
 <hr> 
 
 # Features of Location Webpage
 
-<h2>Location webpage</h2>
+<h2>Login webpage</h2>
 <br>
 <ul>
     <li>
         <p>It has same head and footer from the Home page</p>
     </li>
     <li>
-        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment, with all the opening hour and location of the coffeehouse .</p>
-    </li>
-    <li>
-        <p>Opening hours highlighted with Dancing Script font and with a shade of yellow so it calls the attention of the user.</p>
-    </li>
-    <li>
-        <p>Google Maps Location attached to the page so the user can better understand where is the location of the Lola Coffeehouse</p>
+        <p>Asks the user to input his information so it can create a profile</p>
     </li>
     
 </ul>
 
-<img src="assets/images/readmeimg8.jpg" alt="presentation of Lola Coffeehouse Location Webpage">
+<img src="static/images/SC08.png" alt="presentation of Home Services Registration page content">
 <hr> 
 
 # Features of Sign up Webpage
