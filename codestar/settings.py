@@ -69,7 +69,7 @@ MESSAGE_TAGS = {
         messages.ERROR: 'alert-danger',
     }
 
-CRISPY_TEMPLATE_PACK = 'bootstrap4'
+CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
