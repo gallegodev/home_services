@@ -185,23 +185,13 @@ Welcome to Home Services, your trusted source for all things related to home mai
     </li>
 </ul>
 <br>
-<p>The live link can be found here - <a href="https://8000-gallegodev-homeservices-h7rejmyijph.ws-eu105.gitpod.io/" target="_blank" aria-label=" Visit Home Services webpage (Opens in another page)">Home Services</a>
+<p>The live link can be found here - <a href="https://homeservice01-42bf75f49e27.herokuapp.com/" target="_blank" aria-label=" Visit Home Services webpage (Opens in another page)">Home Services</a>
 
-# Credits
-<h2>Content</h2>
-<ul>
-    <li>
-        <p>The code to make social media, coffeehouse ethos was taken from the CI <a href="https://gallegodev.github.io/love-running/" target="_blank" aria-label=" Visit Love Running webpage (Opens in another page)">Love Running</a> Project</p>
-    </li>
-</ul>
 <br>
 <h2>Media</h2>
 <ul>
     <li>
         <p>The images used on the website was taken from <a href="https://www.freepik.com/" target="_blank" aria-label=" Visit Freepick webpage (Opens in another page)">Freepick</a></p>
-    </li>
-    <li>
-        <p>The fonts used on the website was taken from <a href="https://fonts.google.com/" target="_blank" aria-label=" Visit Google Fonts webpage (Opens in another page)">Google Fonts</a></p>
     </li>
     <li>
         <p>The symbols used on the website was taken from <a href="https://fontawesome.com/search" target="_blank" aria-label=" Visit Font Awesome webpage (Opens in another page)">Font Awesome</a></p>
